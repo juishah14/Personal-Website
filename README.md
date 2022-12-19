@@ -1,2 +1,2 @@
-# web
-Personal Website: https://juishah14.github.io/web/
+# Personal Website
+Visit `https://juishah14.github.io/web/`
